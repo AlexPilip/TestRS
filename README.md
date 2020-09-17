@@ -2,3 +2,5 @@
 
 new test
 helllllo w!
+train
+cool fi
